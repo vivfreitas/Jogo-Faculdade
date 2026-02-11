@@ -1,6 +1,6 @@
 # DEMO DE JOGO 🎮
 
-Um trabalho para a faculdade com o intuíto de entender como um sistema  sistema real, com regras, estados, dados, eventos e organização de código funcionam.
+Um trabalho para a faculdade com o intuito de entender como um sistema  sistema real, com regras, estados, dados, eventos e organização de código funcionam.
 Aqui veremos os seguintes tópicos sendo praticado:
 
 - Bibliotecas e Controle de Versionamento
